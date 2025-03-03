@@ -5,6 +5,8 @@ The Open Intents Framework is an open-source framework that provides a full stac
 With out-of-the-box ERC-7683 support, the Open Intents Framework standardizes cross-chain transactions and unlocks intents on day 1 for builders in the whole Ethereum ecosystem (and beyond).
 
 https://github.com/BootNodeDev/intents-framework
+https://github.com/hyperlane-xyz/hyperlane-monorepo
+
 
 ## ERC-7683: Cross Chain Intents
 
@@ -16,6 +18,14 @@ https://eips.ethereum.org/EIPS/eip-7683
 ## Hyperlane
 
 Hyperlane is a permissionless interoperability protocol for cross-chain communication. It enables message passing and asset transfers across different chains without relying on centralized intermediaries or requiring any permissions.
+
+![Bridge](bridge.jpg "Bridge")
+
+### Protocol Overview
+https://docs.hyperlane.xyz/docs/protocol/protocol-overview
+
+### Mailbox
+https://docs.hyperlane.xyz/docs/protocol/mailbox
 
 ### How to Connect Your Chain with Hyperlane
 https://docs.hyperlane.xyz/docs/deploy-hyperlane
