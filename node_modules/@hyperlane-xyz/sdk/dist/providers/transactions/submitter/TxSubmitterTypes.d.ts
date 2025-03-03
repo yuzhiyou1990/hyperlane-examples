@@ -1,0 +1,7 @@
+export declare enum TxSubmitterType {
+    JSON_RPC = "jsonRpc",
+    IMPERSONATED_ACCOUNT = "impersonatedAccount",
+    GNOSIS_SAFE = "gnosisSafe",
+    GNOSIS_TX_BUILDER = "gnosisSafeTxBuilder"
+}
+//# sourceMappingURL=TxSubmitterTypes.d.ts.map

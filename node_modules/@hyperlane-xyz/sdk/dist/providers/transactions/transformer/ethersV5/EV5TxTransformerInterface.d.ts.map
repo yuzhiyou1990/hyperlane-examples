@@ -1,0 +1,1 @@
+{"version":3,"file":"EV5TxTransformerInterface.d.ts","sourceRoot":"","sources":["../../../../../src/providers/transactions/transformer/ethersV5/EV5TxTransformerInterface.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,sBAAsB,CAAC;AAEpD,OAAO,EAAE,sBAAsB,EAAE,MAAM,8BAA8B,CAAC;AAEtE,MAAM,WAAW,yBACf,SAAQ,sBAAsB,CAAC,YAAY,CAAC,QAAQ,CAAC;CAAG"}
